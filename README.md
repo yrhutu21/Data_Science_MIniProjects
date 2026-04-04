@@ -1,1 +1,1 @@
-# Data_Science_MIniProjects
+# Data_Science_MiniProjects
